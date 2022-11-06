@@ -1,13 +1,13 @@
 /*html元素*/
-h1 {
+<style>
+    h1 {
     text-align: center;
     /*方法1 */
     /* position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%); */
-
-}
+    }
 /*class*/
 .req-cls{
     background-color:rgb(111, 208, 208)
@@ -16,8 +16,3 @@ h1 {
 #like{
     color: aquamarine;
 }
-/*ID*/
-#center{
-    
-}
-.img_wrap{    width: 400px;    height: 300px;    border: 1px dashed #ccc;    background: url(wgs.jpg) no-repeat center center;}
