@@ -1,0 +1,12 @@
+/*html元素*/
+body{
+    font: size 0.75em;
+}
+/*class*/
+.req-cls{
+    background-color:rgb(111, 208, 208)
+}
+/*ID*/
+#like{
+    color: aquamarine;
+}
