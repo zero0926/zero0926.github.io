@@ -16,8 +16,6 @@ h1 {
     line-height: 800px; */
     }
     .img1 {
-width: 200px;
-height: 140px;
 /* 方法1 */
 position: absolute;
 top: 50%;
